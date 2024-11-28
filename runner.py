@@ -29,11 +29,11 @@ def run_script(script_path):
 
 
 if __name__ == "__main__":
-    script1_path = r'C:\Users\j\Desktop\UsersHunter\main-1.py'
-    script2_path = r'C:\Users\j\Desktop\UsersHunter\main-2.py'
-    script3_path = r'C:\Users\j\Desktop\UsersHunter\main-3.py'
-    script4_path = r'C:\Users\j\Desktop\UsersHunter\main-4.py'
-    script5_path = r'C:\Users\j\Desktop\UsersHunter\main-5.py'
+    script1_path = r'main-1.py'
+    script2_path = r'main-2.py'
+    script3_path = r'main-3.py'
+    script4_path = r'main-4.py'
+    script5_path = r'main-5.py'
 
 
     # Run scripts concurrently using threads
